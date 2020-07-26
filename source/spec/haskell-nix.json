@@ -1,7 +1,7 @@
 {
+    "fetchSubmodules": false,
     "owner": "input-output-hk",
     "repo": "haskell.nix",
-    "rev": "21a6d6090a64ef5956c9625bcf00a15045d65042",
-    "sha256": "1pd66vdf2a5wfa18xzz6xqxzmknmlbrgpdb2nzixi80sw30r4mm0",
-    "fetchSubmodules": false
+    "rev": "6ca073db9d236bffeceacd7cfc5a27402b12fd17",
+    "sha256": "00ws45jn82brp4l59b4jzxmyvlg80wv24jbk48k0l61x7f4qr9ny"
 }

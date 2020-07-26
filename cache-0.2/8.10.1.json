@@ -1,0 +1,8 @@
+[
+    {
+        "name": "cabal-helper",
+        "rev": "79a5608778493bf32e74b54bbf1ea2729941e50f",
+        "sha256": "1jsiwg94yy8pwhzi3z6ayja9qdgf7fl6xn1h9z681j6lhbx225f8",
+        "url": "https://github.com/DanielG/cabal-helper.git"
+    }
+]

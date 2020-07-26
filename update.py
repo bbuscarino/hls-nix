@@ -76,7 +76,7 @@ def fmt_dep_url(d):
 
 
 HLS_REPO = "https://github.com/haskell/haskell-language-server"
-TAGS = ["master", "0.1"]
+TAGS = ["master", "0.1", "0.2", "0.2.1", "0.2.2"]
 TMP_PATH = "/tmp/hls"
 
 
